@@ -35801,7 +35801,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 991px) {
   .u-footer .u-sheet-1 {
-    min-height: 221px;
+    min-height: 292px;
+  }
+
+  .u-footer .u-group-1 {
+    margin-top: 18px;
+    margin-bottom: 34px;
+    min-height: 241px;
   }
 
   .u-footer .u-btn-1 {
@@ -35826,6 +35832,10 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 767px) {
   .u-footer .u-sheet-1 {
     min-height: 86px;
+  }
+
+  .u-footer .u-group-1 {
+    min-height: 241px;
   }
 
   .u-footer .u-btn-3 {
